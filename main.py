@@ -14,13 +14,13 @@ while True:
 
         print("###################################################################")
 
-        playsound('https://soulfang-tech.github.io/love-is-war/DADDY!_DADDY!_DO!.mp3')
+        playsound('https://soulfang-tech.github.io/music/DADDY!_DADDY!_DO!.mp3')
 
         ############################################################################
 
         print('3. Chika Dance')
 
-        playsound('https://soulfang-tech.github.io/love-is-war/Chika-Dance.mp3')
+        playsound('https://soulfang-tech.github.io/music/Chika-Dance.mp3')
 
         print("_____________________________over the moon for you_________________________________________")
 
