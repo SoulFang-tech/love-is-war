@@ -23,6 +23,13 @@ while True:
 
         playsound('https://soulfang-tech.github.io/music/Chika-Dance.mp3')
 
+        ############################################################################
+        print("###################################################################")
+
+        print('4. Sentimental Crisis')
+        
+        playsound('https://soulfang-tech.github.io/music/Sentimental Crisis.mp3')
+        
         print("_____________________________Over The Moon For You_________________________________________")
 
         print("1. Koi no Uta")
