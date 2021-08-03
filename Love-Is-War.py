@@ -20,6 +20,12 @@ while True:
         ############################################################################
 
         print('3. Chika Dance')
-
+        
         playsound('https://soulfang-tech.github.io/music/Chika-Dance.mp3')
+        
+        ############################################################################
+        
+        print('4. Sentimental Crisis')
+        
+        playsound('https://soulfang-tech.github.io/music/Sentimental Crisis.mp3')
 exit()
